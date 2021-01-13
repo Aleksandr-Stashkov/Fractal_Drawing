@@ -13,4 +13,4 @@ The C field chooses one of the preset configurations of base dots. The value ent
 
 The m field sets the denominator in the algorithm. It is integer and should be above 1.
 
-Basically, you should launch the exe-file and try combinations 31/2, 43/2, and 41/2.
+Basically, you should download the project, launch the exe, and try combinations 31/2, 43/2, and 41/2.
